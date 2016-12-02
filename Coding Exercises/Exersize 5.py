@@ -33,3 +33,5 @@ R2 <- ADD_MAT(B,C)
 R3 <- MULT_NR(R2,2)
 
 A <- SUB_MAT(R1,R3)
+
+# The Big O Notation for this code is O(N^3)
